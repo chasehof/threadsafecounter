@@ -1,0 +1,52 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+Makefile
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+Example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Documentation
+html/
+latex/
+doxygen_sqlite3.db
+
+# OS
+.DS_Store
+Thumbs.db
