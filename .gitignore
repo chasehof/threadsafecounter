@@ -32,7 +32,7 @@ Makefile
 # Executables
 *.exe
 *.out
-Example
+build/Example
 
 # Python
 __pycache__/
